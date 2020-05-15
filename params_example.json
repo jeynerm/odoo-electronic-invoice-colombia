@@ -1,0 +1,14 @@
+{
+    "odoo_connection": {
+        "url": "https://odoo.server.com",
+        "port": 443,
+        "db": "odoo_db_name",
+        "username": "odoo_username",
+        "password": "odoo_password"
+    },
+    "company_id": "123456789",
+    "provider_data": {
+        "user": "provider_user",
+        "password": "provider_password"
+    }
+}
